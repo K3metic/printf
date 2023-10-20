@@ -39,5 +39,5 @@ int print_HEX_extra(unsigned int num);
 int print_ptr(va_list val);
 int print_hex_extra(unsigned long int num);
 
-#endif // MAIN_H
+#endif /* MAIN_H
 
